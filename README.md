@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: send me an email ---> gizemayazyegul@gmail.com
 - 😄 Pronouns: You can call me whatever you want
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: fun fact is i dont have i fun fact
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
