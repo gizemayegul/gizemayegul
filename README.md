@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send me an email ---> gizemayazyegul@gmail.com or check my page www.gizemayaz.com
 - Fun fact: the fun fact is that I love learning new hobbies and working on DIY projects all the time.
 - 🌱 I’m currently learning to code.
-- 😄 Pronouns: She/her but hey this is a safe place call me how you like
 - 👯 I’m looking to collaborate on using friendly web designs.
 -->
 <div id="header" align="center">
