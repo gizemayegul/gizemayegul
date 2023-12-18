@@ -23,9 +23,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="70">
 </div>
 </div>
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1219473620/vector/young-female-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at.jpg?s=612x612&w=0&k=20&c=zOE7SRWT0gSIVxrioPGTFWpWwXE0_aYsF3ub6q9U3Ho=" width="600" height="300"/>
-</div>
+
 
 <div>
   <h1>Languages and Tools</h1>
