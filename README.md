@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --->
-- 🎯 I am currently concentrating on the Web Development Bootcamp at Ironhack.
+- 🎯 I just finished attending to Web Development Bootcamp at Ironhack.
 - 🔭 Worked with Bootstrap, Typescript, and other common libraries.
 - 📫 How to reach me: send me an email ---> gizemayazyegul@gmail.com or check my page www.gizemayaz.com
 - Fun fact: the fun fact is that I love learning new hobbies and working on DIY projects all the time.
