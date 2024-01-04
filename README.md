@@ -1,6 +1,6 @@
 
-  <h2>Hi there 👋</h2>
 <div id="header" align="center">
+  <h2>Hi there 👋</h2>
 <img src="https://github.com/gizemayegul/gizemayegul/blob/main/gizmo.gif" width="500" height="500" />
 
 </div>
