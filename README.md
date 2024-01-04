@@ -1,7 +1,7 @@
 
   <h2>Hi there 👋</h2>
 <div id="header" align="center">
-<img src="https://github.com/gizemayegul/gizemayegul/blob/main/gizem.gif" width="500" height="500" />
+<img src="https://github.com/gizemayegul/gizemayegul/blob/main/gizmo.gif" width="500" height="500" />
 
 </div>
 
