@@ -8,7 +8,6 @@
 
 <div align="center">
 
-  <p> Web Development Teaching Assistant at Ironhack.</p>
   <p> 👯 I’m looking to collaborate on using friendly web designs</p>
   <p> 📫 How to reach me: send me an email gizemayazyegul@gmail.com or check my page www.gizemayaz.com </p>
   <p> Fun fact: the fun fact is that I love learning new hobbies and working on DIY projects all the time.</p>
