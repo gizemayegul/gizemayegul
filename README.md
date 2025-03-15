@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,express,git,github,mongodb,nodejs,typescript,vite,vscode,dotnet,cs"/>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,js,html,css,react,bootstrap,express,git,github,mongodb,nodejs,typescript,vite,vscode,dotnet,cs"/>
 </div>
 
 
