@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header">
   <h2>Hi there 👋</h2>
 <!-- <img src="https://github.com/gizemayegul/gizemayegul/blob/main/gizmo.gif" width="500" height="500" />
  -->
